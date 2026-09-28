@@ -1,4 +1,4 @@
-### Dae Kang: Business Analyst who builds
+### Dae Kang: Business Analyst, moving into software development
 
 I work on discovery, user research and requirements for Microsoft 365 data-governance programmes. Outside of work I design and build software.
 
